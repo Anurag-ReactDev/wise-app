@@ -19,7 +19,7 @@ const WiseCalculator=()=>{
     //headers
     const head = new Headers();
     head.append("content-type","application/json")
-    head.append("apikey","cur_live_FpPUllxA038WwHvHj5xDCH7WsHLuwynciarMNe4u")
+    head.append("apikey","cur_live_FpPUllxA038WwHvHj5xDCH7WsHLuwynciarMNe")
 
     //request Body
     const requestBody = {
